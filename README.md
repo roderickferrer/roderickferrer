@@ -38,7 +38,7 @@ ROLE: Front-End developer
 <br/>
 <br/>
 
-https://github-stats-extended.vercel.app/api?username=roderickferrer&show_icons=true&include_all_commits=true&theme=dark_github
+<img src="https://github-stats-extended.vercel.app/api?username=roderickferrer&show_icons=true&include_all_commits=true&theme=dark_github"/>
 
 </div>
 #

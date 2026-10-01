@@ -3,7 +3,7 @@
  <h1>👋 Hi, I’m Roderick Ferrer </h1>
 
 ROLE: Front-End developer
-- 👀 I’m interested in Front-end Development, back-end Development, and Web development   
+- 👀 I’m interested in Front-end Development, back-end Development, and Full-stack development   
 - 📫 You can reach me in www.linkedin.com/in/roderickferrer
 - Check out my portfolio! -> https://www.roderickferrer.site/
 - Currently learning: Typescript and Docker

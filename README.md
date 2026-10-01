@@ -39,7 +39,8 @@ ROLE: Front-End developer
 <br/>
 
 <img src="https://github-stats-extended.vercel.app/api?username=roderickferrer&show_icons=true&include_all_commits=true&theme=dark_github"/>
-
+<br/>
+<img src="[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=roderickferrer&langs_count=4&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=roderickferrer&langs_count=4&theme=dark_github)"/>
 </div>
 #
 

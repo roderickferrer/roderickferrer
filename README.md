@@ -38,13 +38,7 @@ ROLE: Front-End developer
 <br/>
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=DEREKFERRER&theme=react&show_icons=true&hide_border=true&count_private=true" alt="DEREKFERRER's GitHub Stats" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api?username=roderickferrer&theme=default&show_icons=true&hide_border=true&count_private=true" alt="roderickferrer's GitHub Stats" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roderickferrer&theme=default&show_icons=true&hide_border=true&layout=compact" alt="roderickferrer's GitHub Stats" />
-<br/>
-<img src="https://streak-stats.demolab.com?user=roderickferrer&theme=default&hide_border=true" alt="roderickferrer's GitHub Stats" />
+https://github-stats-extended.vercel.app/api?username=roderickferrer&show_icons=true&include_all_commits=true&theme=dark_github
 
 </div>
 #

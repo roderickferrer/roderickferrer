@@ -31,8 +31,8 @@ ROLE: Front-End developer
 <img align="left" alt="JavaScript" width="100px" style="padding-right:10px;" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 <img align="left" alt="React" width="100px" style="padding-right:10px;" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
 <img align="left" alt="Tailwindcss" width="100px" style="padding-right:10px;" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<img align="left" alt="VisualCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/vscode/vscode-original.svg" />
-<img align="left" alt="NPM" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/npm/npm-original-wordmark.svg" />
+<!-- <img align="left" alt="VisualCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/vscode/vscode-original.svg" />
+<img align="left" alt="NPM" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/npm/npm-original-wordmark.svg" /> -->
 <img align="left" alt="Nodejs" width="100px" style="padding-right:10px;" src="https://img.shields.io/badge/node.js-%236DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white" />
 <img align="left" alt="Express" width="100px" style="padding-right:10px;" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
 <img align="left" alt="PostgreSQL" width="100px" style="padding-right:10px;" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />

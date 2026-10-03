@@ -33,7 +33,7 @@ ROLE: Front-End developer
 <img  alt="Nodejs"  src="https://img.shields.io/badge/node.js-%236DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white" />
 <img  alt="Express" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
 <img  alt="PostgreSQL"  src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-
+</div>
 <br/>
 <img src="https://github-stats-extended.vercel.app/api?username=roderickferrer&show_icons=true&include_all_commits=true&theme=dark_github"/>
 <br/>

@@ -10,7 +10,6 @@ ROLE: Front-End developer
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=DEREKFERRER&color=red&abbreviated=true)
 
-### Languages and Tools
 
 
 <!-- <div>
@@ -18,11 +17,8 @@ ROLE: Front-End developer
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/npm/devicon@2.15.1/icons/c/c-original.svg" />
 </div> -->
 
-<br/>
-<br/>
 
-<div>
-<p>Web Tech Stack</p>
+### Languages and Tools
 <div style="flexbox "> 
 </div>
 <img alt="Git"   src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
@@ -42,7 +38,7 @@ ROLE: Front-End developer
 <img src="https://github-stats-extended.vercel.app/api?username=roderickferrer&show_icons=true&include_all_commits=true&theme=dark_github"/>
 <br/>
 <img src="https://github-stats-extended.vercel.app/api/top-langs?username=roderickferrer&langs_count=4&theme=dark_github"/>
-</div>
+
 #
 
 

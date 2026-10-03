@@ -23,7 +23,8 @@ ROLE: Front-End developer
 
 <div>
 <p>Web Tech Stack</p>
-
+<div style="flexbox "> 
+</div>
 <img align="left" alt="Git"   src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 <img align="left" alt="GitHub"  src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 <img align="left" alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
